@@ -8,7 +8,7 @@ public class Bullet : MonoBehaviour
     public float bulletMoveSpeed = 10;
     public bool isPlayerBullet;
     Home home;
-    // Start is called before the first frame update
+    // Start is called before the first frame update1
     void Start()
     {
         
